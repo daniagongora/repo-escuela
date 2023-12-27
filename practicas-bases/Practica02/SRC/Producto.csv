@@ -1,0 +1,3 @@
+IdProducto,Nombre,Marca,Presentacion,Precio,Cantidad,Stock,Refrigeracion,FechaElaboracion,FechaCaducidad
+P1000,CocaCola,CocaCola,Vidrio,10,355ml,4,Si,03-03-2023,03-05-2023
+P1001,Pepsi,Pepsi,botella,15,355ml,2,Si,03-03-2023,03-07-2023

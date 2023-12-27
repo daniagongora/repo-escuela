@@ -1,0 +1,101 @@
+IDCliente,Nombre,ApellidoP,ApellidoM,Calle,Numero,CodigoPostal,Alcaldia,FechaNacimiento
+1,Rowen,Skahill,Audas,Boyd,39154,98922,New York,2023-01-08
+2,Madlin,Wieprecht,Passmore,Grayhawk,07108,40748,California,2022-05-26
+3,Rickard,Burgne,Chinnock,Autumn Leaf,511,85549,Colorado,2022-08-08
+4,Corliss,McGillecole,Jerred,Messerschmidt,800,15410,Florida,2022-10-28
+5,Purcell,Stillwell,Kimmitt,Sugar,59,41358,Illinois,2022-12-21
+6,Gilbertine,Try,Hacking,Golf Course,34074,73691,Colorado,2023-03-07
+7,Genevieve,Floweth,Klampk,Talmadge,50,63630,Minnesota,2023-04-06
+8,Finn,Vasic,Shavel,Sage,2,56667,Nebraska,2022-09-07
+9,Greer,Ashby,Duester,Bobwhite,27,45475,California,2022-12-29
+10,Elnora,Buterton,Cocklin,Lighthouse Bay,36340,89919,Michigan,2023-01-05
+11,Kiah,McCome,Divis,Tomscot,58318,21812,New York,2023-04-14
+12,Merna,Dempster,Yetts,Towne,4,91598,Texas,2022-07-10
+13,Janenna,Restorick,Dey,Everett,5004,41015,California,2023-04-13
+14,Gothart,Rickis,Aggs,Melvin,4263,30390,Montana,2022-08-23
+15,Barby,Alaway,Castagne,Becker,0,64815,Xochimilco,2022-10-19
+16,Eliza,Videneev,Skuce,Petterle,0,41111,Texas,2022-12-01
+17,Bernardo,Grieves,Benedtti,Amoth,30,35292,Ohio,2022-05-09
+18,Alys,Shewsmith,Cammacke,Messerschmidt,7578,65506,Connecticut,2023-04-16
+19,Kim,Manser,Rycroft,Bobwhite,36658,46958,Pennsylvania,2023-04-15
+20,Johna,Melody,Hugh,Upham,866,55071,California,2023-04-12
+21,Karna,Wycherley,Orteau,Waubesa,3751,61138,Florida,2023-03-15
+22,Todd,Gook,Feldmann,Kenwood,7576,24855,Ohio,2023-03-24
+23,Julie,Lawson,Jewess,Bluestem,7191,79718,Texas,2023-02-07
+24,Frankie,Shinfield,Yoakley,Linden,158,35711,Texas,2023-04-21
+25,Janek,Gothup,Piele,Melvin,522,75001,California,2022-10-01
+26,Fayette,Tree,Duffan,Sachs,78630,24774,Nevada,2023-03-27
+27,Patton,Oaten,Widocks,Portage,145,97260,Florida,2022-08-10
+28,Sarah,Ronaldson,Vertigan,Manley,6,40310,Connecticut,2022-10-13
+29,Daryl,Vasyaev,Sadler,Express,332,27548,North Carolina,2022-08-23
+30,Norine,Stuckley,Le Brom,Carberry,0202,23981,Florida,2022-08-12
+31,Simeon,MacAnelley,Poulney,Northview,989,73398,Kansas,2023-05-06
+32,Karlotte,Fermer,Ingham,Cordelia,92,67152,Kentucky,2022-09-01
+33,Tess,Pasque,Guinane,Clemons,84,85325,Texas,2022-06-09
+34,Brandi,Lofts,Dietmar,Brickson Park,0,19896,Florida,2022-12-22
+35,Carlota,Mangenet,Cattrall,Sutherland,73,46179,Idaho,2023-04-09
+36,Alick,McGillicuddy,Dobeson,Farmco,92516,44709,Xochimilco,2022-07-06
+37,Pace,Rushby,Monson,Marquette,65075,95140,Indiana,2022-05-27
+38,Ermanno,Duthie,Hourstan,Badeau,95077,20661,Florida,2022-10-08
+39,Rhoda,Billitteri,Makiver,Eagan,97468,85134,Tennessee,2023-01-23
+40,Molli,Hillatt,Killock,Maryland,1697,59053,Ohio,2022-09-04
+41,Reeva,Primo,Tofpik,Grasskamp,2290,33171,Massachusetts,2022-06-05
+42,Rozina,Pearle,Tavner,Grover,9,33782,Alabama,2023-02-20
+43,Arda,Garken,Bysouth,Holy Cross,3,80605,Texas,2022-06-21
+44,Baxie,Burkwood,McHan,Continental,7982,94304,Oregon,2023-02-21
+45,Eal,Mollindinia,Lamb,Parkside,81,67129,Xochimilco,2023-03-29
+46,Sarene,Tonkin,Absalom,Mosinee,7089,63962,Texas,2022-11-27
+47,Chiarra,Muddicliffe,Mocker,Veith,050,15497,Colorado,2022-12-30
+48,Sammy,Carleman,Wolfart,Nelson,45,22366,California,2023-01-27
+49,Fraze,Basant,Guidetti,Surrey,6768,26236,Massachusetts,2022-07-03
+50,Sissy,McKennan,Dumelow,Mariners Cove,27433,37791,Kentucky,2022-09-08
+51,Loy,Eagan,Tripean,Continental,7323,56701,Massachusetts,2022-08-20
+52,Troy,Tenaunt,Rhymer,La Follette,65736,26583,Minnesota,2023-04-18
+53,Aloisia,Riehm,Leander,Monica,2149,60788,Arkansas,2022-12-12
+54,Leda,Kubat,Tott,Eastlawn,16292,82998,Minnesota,2023-02-26
+55,Larine,Domek,O'Sculley,Meadow Vale,9,31691,North Carolina,2023-03-20
+56,Phillie,Murrell,Dowda,Vera,70,82622,Kansas,2023-01-18
+57,Shantee,Blackburne,Buffin,Burrows,0143,36385,North Carolina,2023-01-17
+58,Aloin,Pickerin,Troake,Arizona,3731,18747,Florida,2023-02-24
+59,Edmund,Scotchford,Moroney,Garrison,39450,48387,Texas,2022-07-30
+60,Tilly,Lannin,Silkston,Loftsgordon,8908,75088,California,2023-01-20
+61,Becka,Pagel,Dorrell,Eastlawn,9879,38689,Texas,2022-11-14
+62,Lilli,Brophy,Timbridge,Mesta,097,38266,Kentucky,2022-08-11
+63,Gaylord,Howard,Woolis,Mayfield,367,94590,Kentucky,2022-06-10
+64,Doug,Thandi,Wrates,Superior,118,29800,Florida,2022-08-18
+65,Nicky,Noblett,Coyish,Northridge,7,12781,Florida,2022-09-14
+66,Renee,Robardley,Abbs,Weeping Birch,411,23642,Kansas,2023-04-17
+67,Bennett,Grace,Whayman,Eagan,9,45885,Ohio,2023-04-03
+68,Greer,Stummeyer,Brisco,David,5,97123,Maryland,2022-12-08
+69,Darrell,Colton,Lardnar,Melody,80,99539,California,2022-10-21
+70,Dimitri,Berrey,Luis,Eliot,7,15159,Texas,2022-07-28
+71,Willi,Conaghan,Duham,Pepper Wood,83,54465,Pennsylvania,2022-05-13
+72,Israel,Mohan,Chaplyn,Thompson,4210,85757,Michigan,2022-06-26
+73,Marissa,Shirer,Shone,Bunker Hill,72016,20978,Massachusetts,2023-02-13
+74,Skye,Franzetti,Blease,Lindbergh,91781,11541,California,2022-07-08
+75,Mikael,Feighry,Callen,Russell,068,38376,Oregon,2023-01-11
+76,Goober,Bartlosz,Pimer,Fallview,37824,78801,Texas,2022-05-19
+77,Hayes,Biford,Klass,Shopko,74269,92045,Texas,2022-11-03
+78,Keelby,Puckrin,Bowcher,Stuart,7654,81705,North Dakota,2022-09-02
+79,Kakalina,Zelake,Antrag,Daystar,68,63275,Minnesota,2022-12-18
+80,Kendall,Oloman,Bonsale,Glacier Hill,368,95392,Massachusetts,2022-09-08
+81,Con,Bonnell,Thorby,Grayhawk,852,59963,Florida,2022-05-29
+82,Nadeen,Eathorne,Sleep,Starling,4,14652,Illinois,2022-06-30
+83,Jazmin,Grinval,Twycross,Carioca,1240,23254,Arizona,2022-12-26
+84,Myrta,Millery,Blackaller,Walton,5198,78627,Alabama,2022-09-22
+85,Teddi,Wasling,Fennick,Hovde,97,61393,California,2022-12-09
+86,Andie,Macrow,Ollett,Mendota,49735,72798,California,2022-10-12
+87,Delmar,Pickthorne,Pagin,Forest,214,77411,Virginia,2022-08-17
+88,Gabi,Oxer,Peery,Mallory,2543,85251,Illinois,2022-12-14
+89,Abbe,Larmour,Leap,Shoshone,0,53574,Louisiana,2022-10-27
+90,Madelina,Soro,Salack,Atwood,3368,20553,Washington,2022-08-30
+91,Hewe,Stoneman,Leeman,Paget,491,43818,Colorado,2022-12-09
+92,Joeann,Tetford,Skerrett,6th,4251,65210,Iowa,2022-05-25
+93,Ransom,Laydon,Lewzey,Menomonie,35046,42663,New York,2022-05-30
+94,Bradford,Blucher,Swanne,Prairieview,0,87144,South Dakota,2022-05-18
+95,Caspar,Dibble,Dennant,Carpenter,0884,66203,Massachusetts,2023-03-09
+96,Veda,Padbery,Maple,Forest,7086,11727,Nebraska,2022-06-22
+97,Madelaine,Gillaspy,Fasey,Eliot,0,41741,Missouri,2022-07-22
+98,Mil,Kamiyama,Brogiotti,High Crossing,991,16003,Florida,2023-03-18
+99,Kaile,Noto,Senior,Daystar,02179,64100,Virginia,2022-11-21
+100,Katy,Daintree,Grinsted,Fordem,74,23016,Louisiana,2022-07-01
