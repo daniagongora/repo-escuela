@@ -1,0 +1,1 @@
+("8.2" ta6le ("d187bc81a8fe3138d0d88f35dcd0bf2350b6c625" . "6e1f5f8c1763420c626f05a8b1495ff31a102c2a") #"/home/ubuntu/Documentos/lenguajes/practica03/practica03/practica-3-equipobomba3/grammars.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"plai" #"lang" #"reader.rkt") (collects #"plai" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

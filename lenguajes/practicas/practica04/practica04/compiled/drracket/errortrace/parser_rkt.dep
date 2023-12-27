@@ -1,0 +1,1 @@
+("8.2" ta6le ("7cbfe3823ebd0d54edad1ce0cf6c3bdf45abc077" . "2962f8ceecc6070f56985b5e6a181a796178e800") #"/home/ubuntu/Documentos/lenguajes/practica04/practica04/grammars.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"plai" #"lang" #"reader.rkt") (collects #"plai" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,69 @@
+#lang plai
+;;Integrantes
+;;Dania Paula Gongora Ramirez
+;;Karla Clemente Herrera
+
+(require (file "./grammars.rkt"))
+(require (file "./parser.rkt"))
+
+;; Función correspondiente al algoritmo de sustitución
+(define (subst expr sub-id value)
+  (match expr
+    [(id i) (if (symbol=? i sub-id) value expr)]
+    [(num n) expr]
+    [(op fun args) (op fun (map (lambda (exp)
+                                  (subst exp sub-id value))
+                                args))]
+    [(with bindings body-with)
+     (let ((id-list (map binding-nombre bindings)))
+       (if (member sub-id id-list)
+           (with (reemplaza sub-id value bindings)
+                 (subst body-with sub-id value))
+           (with (reemplaza sub-id value bindings)
+                 (subst body-with sub-id value))))]
+    
+    [(with* bindings body-with)
+     (let ((id-list (map binding-nombre bindings)))
+       (if (member sub-id id-list)
+           (with* (reemplaza sub-id value bindings)
+                  (subst body-with sub-id value))
+           (with* (reemplaza sub-id value bindings)
+                  (subst body-with sub-id value))))]))
+
+;;Función auxiliar que reemplaza todas las apariciones
+;;del identificador sub-id por cierto valor
+(define (reemplaza sub-id val bindings)
+  (map (lambda (b)
+         (match b
+           [(binding name value)
+            (binding name (subst value sub-id val))]))
+       bindings))
+
+;; Función auxiliar obtiene el nombre de un binding
+(define (binding-nombre b)
+  (match b
+    [(binding n v) n]))
+
+;; Toma un árbol de sintáxis abstraca del lenguaje WBAE.
+;; interp: CFWBAE DefrdSub-> CFWBAE-Value
+(define (interp expr)
+  (type-case WBAE expr
+     [id (i) (error 'interp "Variable libre D:!")]
+     [num (n) expr]
+     [bool (b) expr]
+     [chaR (c) expr]
+     [strinG (s) expr]
+     [lst (l) (lst (map (lambda (x) (interp x)) l))]
+     ;;Faltan estos casos
+     [op (f args) expr]
+     [with (bindings body) expr]
+     [with* (bindings body) expr]
+     ;;creo que para el with seria algo asi; (interp (foldl (lambda (bin expr)
+    ;;foldl se utiliza para recorrer y aplicar una operación en cada elemento acumulando el resultado en un valor.
+                                        ;; (subst expr
+                                          ;;(binding-name bin)
+                                           ;; (num (interp (binding-value bin)))))
+                                      ;; body-with
+                                      ;; bindings))]
+    )
+  )

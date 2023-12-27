@@ -1,0 +1,1 @@
+("8.2" ta6le ("406f3bfcbe43576fca896000bb9ade97156aedce" . "4b16a6dbed4a3340f51f104a3696f4b1a5557d91") #"/home/ubuntu/Documentos/lenguajes/practica02/practica-2-practica02equipo-bomba/datatypes.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"plai" #"lang" #"reader.rkt") (collects #"plai" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
